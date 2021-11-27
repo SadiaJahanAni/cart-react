@@ -1,0 +1,14 @@
+.total{
+   text-align: center;
+}
+
+.button{
+    padding: 6px;
+    border: 2px solid green;
+    border-radius: 3px;
+    background-color: rgb(6, 48, 6);
+    color: honeydew;
+    padding-left: 45px;
+    padding-right: 45px;
+    cursor: pointer;
+}

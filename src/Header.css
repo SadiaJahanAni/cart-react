@@ -1,0 +1,44 @@
+.header{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+   justify-content: space-between;
+   background-color: black;
+   color: blanchedalmond;
+   font-size: large;
+   font-weight: 500;
+   cursor: pointer;
+}
+.ul-list{
+    display: flex;
+    align-items: center;
+}
+
+.list{
+    padding: 8px;
+    list-style: none;
+   
+}
+
+
+.ul-list li:hover{
+    background-color: blanchedalmond;
+    border: 1px solid white;
+    color: black;
+    border-radius: 2px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.crazy{
+    color: orangered;
+    font-style: italic;
+    font-size: larger;
+}
+
+.search{
+    padding: 5px;
+    border: 2px solid black;
+    margin-left: 5px;
+    color: blue;
+}

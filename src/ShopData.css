@@ -1,0 +1,10 @@
+.cart{
+    display: flex;
+ 
+}
+.course-container{
+    width: 70%;
+}
+.cart-total{
+    padding: 5px;
+}
